@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'état (_state_) pour contrôler l'affichage d'un composant ❌ / ✔️
-- les composants enfants et les _props_ qu'on leur passe ❌ / ✔️
-- le déclenchement d'instructions en fonction des actions de l'utilisateur ❌ / ✔️
+- l'état (_state_) pour contrôler l'affichage d'un composant ✔️
+- les composants enfants et les _props_ qu'on leur passe ✔️
+- le déclenchement d'instructions en fonction des actions de l'utilisateur  ✔️
 - le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ❌ / ✔️
 - l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant
 - l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌ / ✔️
@@ -16,6 +16,8 @@
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
+(gist) : React - Utilisation du state avec un composant https://gist.github.com/propod-op/15fecf6d804855aa7008df3c97a4559f
+
 
 ### Utilisation dans un projet ❌ / ✔️
 
@@ -35,10 +37,7 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-### Titre
-
-- lien
-- description
+React (Utiliser les composants controlés) : https://dmitripavlutin.com/controlled-inputs-using-react-hooks/
 
 ## 🚧 Je franchis les obstacles
 
