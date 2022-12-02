@@ -15,7 +15,7 @@
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ✔️
-Les verbes (slide) : https://docs.google.com/presentation/d/1mEZrQ8miISWzrA99IhmsMWNLyYyjNDsAfb1FBF_wjL8/edit?usp=share_link
+Les verbes (slide) : https://docs.google.com/presentation/d/1mEZrQ8miISWzrA99IhmsMWNLyYyjNDsAfb1FBF_wjL8/edit?usp=sharing
 Les status HTTP (slide) : https://docs.google.com/presentation/d/1cmtBdlmIdhKbt99smuM3jacxlw4fkSf5EVZH9DbbRm0/edit?usp=share_link
 Les CORS (slide) : https://docs.google.com/presentation/d/1MNy-gUvA5OshEVw3AD_Wk6PXBGYzTcUhx0gAOAu_BLk/edit?usp=share_link
 Les CORS (Gist) : https://gist.github.com/propod-op/24f20c92fc404771fd13db3260414978
@@ -43,8 +43,8 @@ Description :
 ## 🌐 J'utilise des ressources
 
 ### Titre
-
-- lien
+Mes ressources pour :
+Le code HTTP : http://www.standard-du-web.com/liste_des_codes_http.php
 - description
 
 ## 🚧 Je franchis les obstacles
