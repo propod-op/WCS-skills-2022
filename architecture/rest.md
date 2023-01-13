@@ -8,7 +8,7 @@
 
 - les verbes HTTP ✔️
 - les statuts HTTP ✔️
-- les endpoints ❌
+- les endpoints ✔️
 - CORS ✔️
 - la nomenclature recommandée pour les routes ✔️
 
@@ -21,7 +21,6 @@ Les CORS (slide) : https://docs.google.com/presentation/d/1MNy-gUvA5OshEVw3AD_Wk
 Les CORS (Gist) : https://gist.github.com/propod-op/24f20c92fc404771fd13db3260414978
 
 La nomenclature des routes (slide): https://docs.google.com/presentation/d/1TNYeX892gPD_pedXDT2mjOF60ttlvUGmmBgITbY1vQM/edit?usp=sharing
-
 La nomenclature des routes (gist) : https://gist.github.com/propod-op/88f6a9b0843ea069f1e8dde4225138bc
 
 ### Utilisation dans un projet ❌ / ✔️
