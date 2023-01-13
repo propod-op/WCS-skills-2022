@@ -40,19 +40,18 @@ Description :
 ## 🌐 J'utilise des ressources
 
 React - Utiliser les composants controlés : https://dmitripavlutin.com/controlled-inputs-using-react-hooks/
-Raect - cycle de vie : https://essential-dev-skills.com/reactjs/developpons-avec-react/comprendre-le-cycle-de-vie
+React - cycle de vie : https://essential-dev-skills.com/reactjs/developpons-avec-react/comprendre-le-cycle-de-vie
 
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
 
 Description:
+Compréhension des notions indépendemment mais problèmes en les combinant
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+- Effectuer un projet React comme mon CV avec les différentes notion à intégrer ❌
 
 Résolution :
 
