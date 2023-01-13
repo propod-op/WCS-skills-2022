@@ -1,12 +1,14 @@
-# Période en entreprise du 23/11/2020 au 11/12/2020
+# Période en entreprise du 23/11/2022 au 11/12/2023
 
 > Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
 
 ## Intégration
 
 1. S'agit il de tes premiers jours dans l'entreprise ? (Si non, précise la date d'entrée)
+J'y suis depuis Aout 2022
 
 2. Décris comment se déroule la communication avec ton tuteur. (fréquence, valeur de l'aide ajoutée)
+Très bien. 
 
 3. Décris ta mission actuelle au sein de l'entreprise
 
