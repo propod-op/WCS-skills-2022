@@ -6,53 +6,58 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ❌
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
-```javascript
-(e) => mc2;
-```
+const multiply = () => {
+ return a * b
+}
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+Giveday.fr
+
+### J'ai utilisé ce langage en production ✔️
+
+onceagain.fr
+Filtre codé en Liquid et Javascript (Vanilla)
 
 Description :
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
-[lien du projet](...)
-
-Description :
-
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
-
-Description :
+onceagain.fr
+Filtre codé en Liquid et Javascript (Vanilla)
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- Javascript - documentation : https://developer.mozilla.org/fr/docs/Web/JavaScript
+- JQuery documentation : https://jquery.com/
+
 
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ❌ / ✔️
 
+- Fonctions asynchrones
+- Algoritmes
+- TypeScript
+
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+- Ameliorer ma maitrise des fonctions asynchrones ❌ / ✔️
+- Ameliorer ma logique et niveau d'algoritmes (niveau minimum actuellement) ❌ / ✔️
+- Ameliorer mon TypeScript 
 
 Résolution :
 
