@@ -14,9 +14,9 @@
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
-
+-------------------------------------------------------------------
 npm i nodemon.
-créer un serveur node :
+créer un serveur node (sans ORM):
 ------------- index.js -----------------
 import express from "express";
 const app = express();
@@ -34,6 +34,8 @@ start().catch(console.error);
 -----------------------------------------
 lancer le serveur :
 nodemon index.js
+-------------------------------------------------------------------
+créer un serveur node (avec ORM):
 
 
 ### Utilisation dans un projet ❌ / ✔️
