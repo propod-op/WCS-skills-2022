@@ -8,12 +8,60 @@
 
 - l'intéret de TypeScript dans l'IDE ✔️
 - les types de bases ✔️
-- comment et pourquoi étendre une interface ❌
+- comment et pourquoi étendre une interface ✔️
 - les classes et les decorators ❌
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌
+
+- les types de bases :
+  -Primitifs :
+    const unknowed:any
+    const simpleTrueFalse:boolean
+    const name:string
+    const age:number
+    const returnNothing:void
+    const nothing:null
+    const nothing:undefined
+  -Personnalisés :
+    - Array
+    const anArray : number[] = [1, 20, 3];
+    - Tuple
+    let aSimpleTuple: [string, number];  
+    aSimpleTuple = ["stack", 1, "trace", 3];
+    - Function
+    function aSimpleFunction(a: number, b: number): number {  
+            return a + b;  
+     } 
+    - Enum
+      enum aSimpleEnum {
+        Newsletter = "NEWSLETTER",
+        Magazine = "MAGAZINE",
+        Livre = "LIVRE"
+      }
+      aSimpleEnum.Livre; //retourne LIVRE
+      aSimpleEnum['Magazine'];//returns MAGAZINE
+    - Class ...
+    - Interface ...
+
+
+- comment et pourquoi étendre une interface :
+
+    interface IPerson {
+        name: string;
+    }
+
+    interface IEmployee extends IPerson {
+        empCode: number;
+    }
+
+    let my_emp:IEmployee = {
+        empCode:109,
+        name:"StackTrace",
+    }
+    
+ - 
 
 ### Utilisation dans un projet ❌
 
